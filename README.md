@@ -27,3 +27,5 @@ A US based Ecommerce sales company wants us to create a sales dashboard of YTD (
 8. Data visualization
 9. Creating dashboard
 10. Generating insights
+
+Link :- https://www.novypro.com/project/ecommercesalesdashboard-power-bi
